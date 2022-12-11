@@ -1,11 +1,7 @@
-.board{
-  width: 1m;
-  height: 1m;
-  background-color: #000;
-  border-radius: 10px;
-  margin: 0;
-  padding: 0;
-  display: block;
+.bord{
+  width: 220px;
+  height: 220px;
+  border: 1px solid #000;
   
 }
   
