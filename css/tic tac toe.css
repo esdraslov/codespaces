@@ -1,7 +1,10 @@
 .bord{
   width: 220px;
   height: 220px;
-  border: 1px solid #000;
-  
+  border: 1px solid #000;  
 }
-  
+
+.tracea{
+    height: 220px;
+    border: 1px;
+}
